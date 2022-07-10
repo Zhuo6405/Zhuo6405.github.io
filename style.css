@@ -1,0 +1,62 @@
+.black-1 {
+    opacity: 0.3;
+    float: auto;
+    color: rgb(255, 255, 255);
+    font-family: 標楷體; 
+    font-size: 64pt;
+    background: rgb(6, 6, 6);
+    display: block;
+}
+.black-2 {
+    float: left;
+    display: block;
+}
+.black-3 {
+    float: auto;
+    color: rgb(153, 13, 13);
+    font-family: 標楷體; 
+    font-size: 28pt;
+    display: block;
+}
+.black-4 {
+    float: left;
+    font-family: 標楷體; 
+    font-size: 24pt;
+    display: block;
+}
+.black-5 {
+    float: left;
+    font-family: 標楷體; 
+    font-size: 24pt;
+    display: block;
+}
+.black-6 {
+    float: auto;
+    font-family: 標楷體; 
+    font-size: 24pt;
+    display: block;
+}
+.black-7{
+    float: auto;
+    color: rgb(79, 50, 50);
+    font-family: 標楷體; 
+    font-size: 32pt;
+    display: block;
+}
+.size{
+  float: auto;
+    width:50px;
+    height: 50px;
+    background: #8BC34A;
+}
+.example1{
+    border-radius:50px;
+}
+.angle{
+  float: auto;
+  width: 0;
+  height: 0;
+  border-bottom:solid 30px red;
+  border-left: solid 30px transparent;
+  border-right: solid 30px transparent ;
+}
